@@ -36,4 +36,5 @@ learn-python-basic/
 ## Author
 
 Ngoc Cong
-Computer Engineering Student
+
+
